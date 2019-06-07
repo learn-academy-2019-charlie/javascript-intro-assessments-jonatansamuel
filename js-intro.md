@@ -2,7 +2,8 @@
 
 Answer these questions, then follow the instructions to submit your first assessment!
 
-#### 1. What is a function? Why would you use one?
+#### 1. What is a function? Why would you use one? 
+this is a random sentence.
 
 #### 2. What is a method?
 
