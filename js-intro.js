@@ -69,6 +69,11 @@ var message = "thisisateststring"
 
 // 7. Write a function that takes a string like message as an argument and returns the string without vowels.
 
+function removeVowel (str) {
+    let vowels = "aeiou
+    
+}
+
 // Stretch: Update your function to throw an exception if the argument is not a string.
 
 // Super Duper Stretch: Update your function to throw a TypeError if the argument is not a string.
